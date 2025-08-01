@@ -3,7 +3,7 @@
 
 Create procedural American-style cities.
 
-![Map Generator Screen Shot](docs/images/screenshot.png)
+![Map Generator Screen Shot](mapgenerator(GROUP)/docs/images/screenshot.png)
 
 ## Overview
 
